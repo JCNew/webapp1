@@ -1,0 +1,11 @@
+{
+    "compile-hero.sass-output-directory": "../css",
+    "liveSassCompile.settings.formats": [
+
+        {
+            "format": "expanded",
+            "extensionName": ".css",
+            "savePath": "/css"
+        }
+    ]
+}
